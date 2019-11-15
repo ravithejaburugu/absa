@@ -24,7 +24,7 @@ Training Datasources: (Fetch data from) :
 
 ## Test Data of: (Manually fetch and test)
 ** TripAdvisor 
-•	from Kaggle, for testing
+•	from Kaggle and directly using tools, for testing
 
 ## Data Preparation:
 * Data cleaning (emojis, date formats, text formats)
