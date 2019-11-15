@@ -30,6 +30,7 @@ Data Preparation:
 * XML formatting of Review and each aspect in it.
 
 Steps for Training:
+* Pretrained BERT
 * Parse and pass XML for training.
 * Vectorization using SpaCy.
 * 4 fold Cross validation
