@@ -6,7 +6,8 @@ Retrieves aspects from the user reviews with sentiment score.
 ** Aspects: {Value, Food, Drinks, Staff, Service, Ambience, Location and Price}
 
 ## Datasources Extraction:
-Training Datasources: (Fetch data from) 
+Training Datasources: (Fetch data from) :
+
 ** Google places API - 
 •	https://maps.googleapis.com/maps/api/place/nearbysearch/json
 •	https://maps.googleapis.com/maps/api/place/details/json
